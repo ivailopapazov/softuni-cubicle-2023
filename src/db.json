@@ -1,3 +1,39 @@
 {
-  "cubes": []
+  "cubes": [
+    {
+      "id": 1,
+      "name": "Gan356 Air SM",
+      "description": "test",
+      "imageUrl": "https://ae01.alicdn.com/kf/HTB1CSddXRxRMKJjy0Fdq6yifFXa6/Gan-356-Air-SM-3x3-Black-Magic-cube-GAN-Air-SM-Magnetic-3x3x3-Speed-cube-gans.jpg",
+      "difficultyLevel": "2"
+    },
+    {
+      "id": 2,
+      "name": "Eco-Dark",
+      "description": "test",
+      "imageUrl": "https://thingsidesire.com/wp-content/uploads/2018/06/Eco-Dark-Rubik%E2%80%99s-Cube2.jpg",
+      "difficultyLevel": "1"
+    },
+    {
+      "id": 3,
+      "name": "Pyraminx",
+      "description": "test",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61izOzq%2BBAL._SY355_.jpg",
+      "difficultyLevel": "4"
+    },
+    {
+      "id": 4,
+      "name": "Normal Cube",
+      "description": "a normal rubik's kube",
+      "imageUrl": "https://i.ebayimg.com/images/g/Fl4AAOSwWsxhdbKX/s-l640.jpg",
+      "difficultyLevel": "3"
+    },
+    {
+      "id": 5,
+      "name": "Hard Cube",
+      "description": "some hard cube",
+      "imageUrl": "https://cdn-cfkdl.nitrocdn.com/RsYdeCXUyMGNzjUpUbtAUDPJnJbVbKpI/assets/static/optimized/rev-58cfe36/wp-content/uploads/2018/06/Pot-Shaped-Cube-Puzzle1.jpg",
+      "difficultyLevel": "5"
+    }
+  ]
 }
