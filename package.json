@@ -20,5 +20,8 @@
   "homepage": "https://github.com/ivailopapazov/softuni-cubicle-2023#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
