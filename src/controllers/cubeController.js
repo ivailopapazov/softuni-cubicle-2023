@@ -10,7 +10,7 @@ exports.postCreateCube = (req, res) => {
 
     let cube = new Cube(name, description, imageUrl, difficultyLevel);
 
-    Cube.save(cube);
+    cube.save();
 
     res.redirect('/');
 };
