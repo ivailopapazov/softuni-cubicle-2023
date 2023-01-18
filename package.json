@@ -4,7 +4,7 @@
   "description": "Softuni Course Project",
   "main": "src/index.js",
   "scripts": {
-    "start": "node ./src/index.js",
+    "start": "SET node_env=production&& node ./src/index.js",
     "dev": "nodemon ./src/index.js"
   },
   "repository": {
