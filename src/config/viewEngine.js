@@ -5,7 +5,7 @@ function setupViewEngine(app) {
         extname: 'hbs',
     }));
     app.set('view engine', 'hbs');
-    app.set('views', './src/views');
+    app.set('views', './src/views'); //default is ./views
 }
 
 module.exports = setupViewEngine;
