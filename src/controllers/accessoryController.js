@@ -2,7 +2,7 @@ const router = require('express').Router();
 
 const Accessory = require('../models/Accessory');
 
-// URL: /accessory/create
+// URL: /accessories/create
 router.get('/create', (req, res) => {
     res.render('accessory/create');
 });

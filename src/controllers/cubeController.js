@@ -37,7 +37,7 @@ exports.postAttachAccessory = async (req, res) => {
     const accessoryId = req.body.accessory;
     cube.accessories.push(accessoryId);
 
-    cube.save();
+    await cube.save();
 
     res.redirect(`/cubes/${cube._id}/details`);
 };
